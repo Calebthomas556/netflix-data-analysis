@@ -41,7 +41,7 @@ This project performs exploratory data analysis (EDA) on Netflix’s content cat
 ![Movies vs TV Shows](visualizations/movies_vs_shows.png)
 
 ### Country Distribution
-![Country Distribution](visualizations/genres_by_country.png)
+![Country Distribution](visualizations/genre_by_country.png)
 
 ### Popular Release years
 ![Popular Release Years](visualizations/titles_release_year.png)
