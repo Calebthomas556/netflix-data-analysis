@@ -53,17 +53,17 @@ This project performs exploratory data analysis (EDA) on Netflix’s content cat
 ## Project Structure
 netflix_python_project/
 ├── data/
-│ └── netflix_titles.csv # Raw Netflix dataset
+│   └── netflix_titles.csv        # Raw Netflix dataset
 ├── notebooks/
-│ └── netflix_eda.ipynb # Exploratory data analysis in Python
+│   └── netflix_eda.ipynb         # Exploratory data analysis in Python
 ├── visuals/
-│ ├── content_over_time.png # Content growth by year
-│ ├── movies_vs_tv.png # Movies vs TV Shows distribution
-│ ├── top_genres.png # Most common genres
-│ ├── country_distribution.png # Content by country
-│ ├── ratings_distribution.png # Ratings breakdown
-│ └── duration_analysis.png # Movie duration / TV show seasons
-└── README.md # Project documentation
+│   ├── content_over_time.png     # Content growth by year
+│   ├── movies_vs_tv.png          # Movies vs TV Shows distribution
+│   ├── top_genres.png            # Most common genres
+│   ├── country_distribution.png  # Content by country
+│   ├── ratings_distribution.png  # Ratings breakdown
+│   └── duration_analysis.png     # Movie duration / TV show seasons
+└── README.md                     # Project documentation
 
 ## What I Learned
 - Cleaning and preprocessing real-world datasets
