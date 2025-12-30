@@ -51,6 +51,7 @@ This project performs exploratory data analysis (EDA) on Netflix’s content cat
 ![Duration Analysis](visualizations/show_duration.png)
 
 ## Project Structure
+```
 netflix_python_project/
   data/
     netflix_titles.csv
@@ -64,7 +65,7 @@ netflix_python_project/
     title_added.png
     titles_release_year.png
     top_genres.png
-
+```
 ## What I Learned
 - Cleaning and preprocessing real-world datasets
 - Conducting exploratory data analysis in Python
